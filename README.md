@@ -1,4 +1,4 @@
-# solve a classification task using TensorFlow over the OCR dataset.
+# Solve a classification task using TensorFlow over the OCR dataset.
 
 Using TensorFlow
 
