@@ -7,3 +7,6 @@ The task is to train a deep neural network on the training set and predict the l
 In this assignment I firstly did the learning with Softmax Regression and after that I did the learning with a different algorithm called Deep Architecture.
 
 Link of the Notebook: [Link](https://github.com/Kooroshoo/Machine-Learning-Assignment-3/blob/master/Code.ipynb)
+
+#
+This project was done as part of the course Machine Learning offered in University of Trento
