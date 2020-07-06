@@ -1,6 +1,6 @@
 # Classification-Task-using-TensorFlow.
 
-Solve a classification task using TensorFlow over the OCR dataset.
+Solve a classification task using Numpy, Scipy, Matplotlib, TensorFlow over the OCR dataset.
 
 The task is to train a deep neural network on the training set and predict the labels on the test set.
 
